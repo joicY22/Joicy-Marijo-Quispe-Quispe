@@ -1,0 +1,6 @@
+{
+  "name": "Feliz Cumpleaños Mejor Amigo",
+  "description": "Una hermosa y emotiva celebración interactiva de cumpleaños para tu mejor amigo con pastel interactivo, carta personalizada, galería de fotos, regalos y música.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
